@@ -1,0 +1,39 @@
+h2{
+    text-align: center;
+    text-shadow: 1px 1px 3px #000;
+    margin-bottom: 0.8em;
+}
+#form{
+    text-align: center;
+}
+.form-control{
+}
+.fa-thumbs-up{
+    color: black;
+    font-size: 4em;
+}
+.fa-truck{
+    color: black;
+    font-size: 4em;
+}
+.fa-battery-full{
+    color: black;
+    font-size: 4em;
+}
+#submit{
+   background-color: #0e0f0f;
+   color: #5c5f61;
+   font-size: 18px;
+   text-transform: uppercase;
+   /* margin-left:35%;  */
+      margin: 0 , auto;
+   box-shadow:1px #0e0f0f;
+}
+#submit:hover{
+    background-color: #5c5f61;
+    color: #0e0f0f;
+    transition: background-color;
+    transition: color;
+    font-size: 1.3em;
+    transition-duration: 0.5s;
+}
